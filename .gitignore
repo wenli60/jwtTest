@@ -1,0 +1,7 @@
+.vscode
+.idea
+/auto*.sh
+
+*.yaml
+/cmd/syncsrv/syncsrv
+/vendor/
